@@ -23,5 +23,6 @@ if __name__ == '__main__':
     print_hi('Randy9')
     print_hi('Randy10')
     print_hi('Randy11')
+    print_hi('Randy12')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
